@@ -1,0 +1,13 @@
+/releases/
+/work/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+/source/app/test/failures/
+/source/app/windows/flutter/generated_plugin_registrant.cc
+/source/app/windows/flutter/generated_plugin_registrant.h
+/source/app/windows/flutter/generated_plugins.cmake
+/source/app/test/manual_scan_audit_test.dart
