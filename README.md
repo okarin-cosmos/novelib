@@ -27,3 +27,7 @@ flutter build windows --release
 
 インストーラーとZIPを作る場合は、Inno Setup 6も用意し、
 リポジトリのルートに戻って `tools/build-windows-installer.ps1` を実行します。
+
+## プライバシー
+
+データの保存、評価共有、外部通信については [プライバシーポリシー](PRIVACY.md) をご覧ください。
